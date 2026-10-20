@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Ashubhs** · Team ID `VTU-QFF-HC-0162` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Ashubhs)
+[⬆ Back to Top](#ashubhs)
 
 </div>
